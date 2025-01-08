@@ -10,7 +10,9 @@
 }
 
 
-
+.header{
+       /* background-image: url(../images/developer.png); */
+}
 
 /* nav-title */
 .nav-title{
@@ -58,6 +60,53 @@ color:#FFFFFF;
 padding: 18PX 35PX;
 border-radius: 5px;
 
-font-size: 17px;
+font-size: 15px;
 
+}
+
+/* DIV STYLES */
+.banner-context{
+       width: 585px;
+       height: 356px;
+       margin-left: 1;
+       /* align-items: center; */
+
+}
+
+
+div h4{
+       color: #474747;
+       width: 177px;
+       height: 61px;
+       font-size: 45px;
+
+}
+div h1{
+       width: 498px;
+       height: 116px;
+       font-size: 85px;
+       font-weight: bold;
+       color: #181818;
+}
+.banner-description{
+       width: 585px;
+       height: 60px;
+       font-size: 18px;
+}
+.banner{
+       justify-content: space-between;
+       display: flex;
+       margin: auto;
+       margin: 0px 50px 0px 220px;
+}
+.banner-pf-pic{
+       width: 584px;
+       height: 676px;
+       
+       
+}
+.header{
+       background-image: url(../images/developer.png), url(../images/header_bg.png);
+       background-repeat:no-repeat ;
+       background-position: top left, bottom right;
 }
