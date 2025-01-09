@@ -188,5 +188,41 @@ main{
        
 
 }
-/* .skill-description{ */
-       /* box-shadow: #181818; */
+
+
+/* coloum resume style */
+.resume-containers{
+       display: flex;
+       gap: 24px;
+       margin-top: 80px;
+       box-shadow: 0px 6px 50px 0px #757575;
+       padding: 30px;
+
+}
+.experience-title{
+       font-size: 25px;
+       width: 477px;
+       height: 27px;
+       margin: 0%;
+}
+.d-btn{
+       margin-top: 20px;
+       /* margin-right: 200px; */
+       margin-left: 500px;
+       /* background-color:  */
+       
+       
+
+
+}
+
+/* . <div class="d-btn"><button>download cv</button></div> */
+ .d-btn-child{
+       background-color: #FD6E0A;
+       width: 200px;
+       height: 67px;
+       font-size: 20px;
+       font-weight: bold;
+       color: #FFF8F3;
+
+ }             
