@@ -236,4 +236,29 @@ main{
        font-weight: bold;
        color: #FFF8F3;
 
- }             
+ } 
+ .secondary-bg{
+       display: flex;
+       
+       padding: 120px 320px 120px 340px;
+       gap: 100px;
+ }  
+.footer-coloumn{
+       width: 50%;
+}
+footer input[type="text"],  footer input[type="email"],  footer textarea{
+       height: 64px;
+       border-radius: 5px;
+       background-color: #FFFFFF;
+       width: 100%;
+       padding: 10px 20px;
+       margin-bottom: 24px;
+       border: none;
+       font-size: 16px;
+
+
+}
+.section-title{
+       margin-left: 0px;
+       padding-bottom: 20px;
+}
