@@ -126,9 +126,12 @@ div h1{
 /* .aboit */
 .about{
        border-radius: 10px;
-       padding: 130px 150px;
+       padding: 120px 130px;
        text-align: center;
-      margin-top: 130px;
+      margin-top: 0px;
+      
+      /* : 0px 6px 50px 0px rgba(0, 0, 0, 0.16) ; */
+       
 
 }
 main{
